@@ -11,9 +11,10 @@ p {
 
 
 .main-header {
-    background-position: 0em;
     background-color: darkgrey;
     text-align: center;
+    font-size: 28px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 
 }
 
@@ -30,4 +31,12 @@ p {
     position: relative;
     text-align: center;
     width: 100%;
+  }
+
+  #more {
+    background-color: darkgrey;
+    text-align: center;
+    font-size: 18px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
   }
